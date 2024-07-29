@@ -2,7 +2,7 @@
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLineEdit, QPushButton, QLabel, QPlainTextEdit, QStackedLayout
 from PyQt5.QtGui import QPixmap
-
+###주석 추가
 class MainWindow(QWidget):
     def __init__(self):
         super().__init__()
